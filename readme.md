@@ -6,3 +6,5 @@
 >
 > - **Lucas Monteiro Miranda**
 > - **Pedro Henrique Ianes Rodrigues**
+
+O projeto foi criado utilizando o Vite com configuração padrão para TypeScript. A pasta node_modules não foi incluída.
