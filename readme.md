@@ -1,5 +1,8 @@
-Projeto Let's Code
 
-Lucas Monteiro Miranda
+# Projeto Mobile Let's Code
+#### Pesquisador de Informações de Personagens de Anime
 
-Pedro Henrique Ianes Rodrigues
+> Esse projeto foi feito por:
+>
+> - **Lucas Monteiro Miranda**
+> - **Pedro Henrique Ianes Rodrigues**
